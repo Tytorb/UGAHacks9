@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get('/')
 async def root():
-    return {'Die Justin'}
+    return {'Die Ty Torb'}
