@@ -3,7 +3,7 @@ import Header from "./components/header";
 import { IconButton, ThemeProvider, createTheme } from "@mui/material";
 import { Mic } from "@mui/icons-material";
 import Dictaphone from "./components/Dictaphone";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 const darkTheme = createTheme({
   palette: {
